@@ -1,5 +1,5 @@
 ﻿# Django-job-Board-project
-build job-board-Application while learinig Djnago that Allows user to add jobs and search about this job 
+#### build job-board-Application while learinig Djnago that Allows user to add jobs and search about this job 
 
 ## You can run web app by executing these commands in its corresponding folder
 ### 1. python manage.py migrate
